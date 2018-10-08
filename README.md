@@ -17,3 +17,11 @@ MISO 4208 MUTATION TESTING
 ## Mutations
 
 ![mutations](assets/mutations.png)
+
+---
+
+## Angular Todo App
+
+![angularTodoApp](assets/AngularTodo.png)
+
+![angularTodoApp](assets/DebugAngulaApp.png)
